@@ -1,4 +1,4 @@
-# streamtv
+# stream-it
 ## Full-Stack TV Show Viewing Web Application
 
 PHP web application similar to IMDB.com and Netflix. Users can register, login, view show and actor information, add shows to a queue, and watch episodes.
